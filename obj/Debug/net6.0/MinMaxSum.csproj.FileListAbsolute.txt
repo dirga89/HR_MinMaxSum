@@ -1,0 +1,15 @@
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.csproj.AssemblyReference.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.AssemblyInfoInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.AssemblyInfo.cs
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.csproj.CoreCompileInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\bin\Debug\net6.0\MinMaxSum.exe
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\bin\Debug\net6.0\MinMaxSum.deps.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\bin\Debug\net6.0\MinMaxSum.runtimeconfig.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\bin\Debug\net6.0\MinMaxSum.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\bin\Debug\net6.0\MinMaxSum.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\refint\MinMaxSum.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\MinMaxSum.genruntimeconfig.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\MinMaxSum\obj\Debug\net6.0\ref\MinMaxSum.dll
